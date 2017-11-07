@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+.decrition{
+    background-color:silver;
+}
+
+.title{
+    font-size: 20px;
+    padding: 30px;
+}
+
+.describe{
+    font-size: 18px;
+    padding:10px;
+}
+
+.date{
+    text-align: right;
+}
